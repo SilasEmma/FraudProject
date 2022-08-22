@@ -28,3 +28,25 @@ Step 4: Install jupyter notebook for the virtual environment
 Step 6: Run Jupyter notebook
 
     jupyter notebook
+
+**Approach**
+
+Tasks:- Hybrid Technique using Deep Learning and Genetics Algorithm. 
+Supervised Learning tasks (Classification Problem)
+
+    Tools
+
+    1. Tensorflow and Keras API.
+    2. Sklearn.
+    3. Matplotlib and Seaborn.
+    4. MLflow
+    5. PyGad
+
+**Table of Content**
+
+    1. Importing Dependencies.
+    2. Data Understanding.
+    3. Exploratory Data Analysis.
+    4. Feature Engineering.
+    5. Model Building.
+    6. Model Evaluation and Interpretation
