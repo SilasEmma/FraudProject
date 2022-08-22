@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/USER/PycharmProjects/FraudDetection/FraudProject/mlruns/1/a5b3c5a278ec4df189b0e3c63073c8c3/artifacts
+end_time: 1661127289322
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: a5b3c5a278ec4df189b0e3c63073c8c3
+run_uuid: a5b3c5a278ec4df189b0e3c63073c8c3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1661126887657
+status: 4
+tags: []
+user_id: USER

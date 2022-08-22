@@ -1,0 +1,4 @@
+artifact_location: file:///C:/Users/USER/PycharmProjects/FraudDetection/FraudProject/mlruns/1
+experiment_id: '1'
+lifecycle_stage: active
+name: Customer Churn Prediction
