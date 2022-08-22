@@ -2,8 +2,9 @@
 Building Hybrid Technique For Credit Card Fraud Detection In Nigerian Banking System
 
 # Preparation
-Step 1:
+**Step 1:**
 First create a virtual environment name venv or anyname you most have python install in system. run =>
+
 python -m venv venv
 
 Step 2:  Activate the virtual environment
