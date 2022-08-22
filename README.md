@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-cls# FraudProject
 # FraudProject
 Building Hybrid Technique For Credit Card Fraud Detection In Nigerian Banking System
 
@@ -29,6 +27,3 @@ ipython kernel install --user --name=venv
 
 Step 6: Run Jupyter notebook
 jupyter notebook
-=======
-
->>>>>>> fbed2caae4b050bbab7218a3a0ef24c1c7090f1d
