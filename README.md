@@ -50,3 +50,26 @@ Supervised Learning tasks (Classification Problem)
     4. Feature Engineering.
     5. Model Building.
     6. Model Evaluation and Interpretation
+
+**What PyGad is**
+
+    PyGAD is an open-source easy to use Python library for building the genetic algorithm
+    and optimizing machine learning algorithms. It works with Keras and PyTorch.
+
+**What MLflow is**
+
+    MLflow is an open source platform for managing the end-to-end machine learning
+    lifecycle. It has the following primary components:
+
+    Tracking: Record and query experiments code, data, config, and results
+    Project: Package data science code in a format to reproduce runs on any platform
+    Models: Deploy machine learning models in diverse serving environments
+    Registry: Store, annotate, discover, and manage models in a central repository
+
+**What Tensorflow and Keras**
+
+    TensorFlow is an open-sourced end-to-end platform, a library for multiple 
+    machine learning tasks, while Keras is a high-level neural network library
+    that runs on top of TensorFlow. Both provide high-level APIs used for easily
+    building and training models, but Keras is more user-friendly because it's
+    built-in Python.
